@@ -1,0 +1,16 @@
+
+body {
+    background-image: url(../images/jurassic-park-wallpaper-desktop-background-For-Desktop-Wallpaper.jpg);
+    background-size: 100vw;
+}
+
+.container {
+    background-color: white;
+    opacity: .9;
+    text-align: center;
+}
+
+.lead {
+    font-size: 80px;
+    text-align: center;
+}
